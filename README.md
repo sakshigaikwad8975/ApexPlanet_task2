@@ -16,8 +16,8 @@ This project is part **Task 2** of my 45-day internship.
 - Fully responsive design
 - Clean UI with icons
 
-## 🌐 Live Demo
-👉 https://sakshigaikwad8975.github.io/todo-list-task2/
+## 🌐 Live Demo##
+👉 https://sakshigaikwad8975.github.io/ApexPlanet_task2/
 
 
 Created by **Sakshi Gaikwad**
